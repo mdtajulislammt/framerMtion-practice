@@ -24,7 +24,7 @@ const Box1 = () => {
               onClick={()=>setIsAnimating(!isAnimating)}
 
               className="bg-red-500 w-40 h-40 cursor-pointer  text-white font-bold text-center ">
-               <h2 className="pt-14">BOX 1 <span className="uppercase text-black">click</span></h2>
+               <h2 className="pt-14">BOX 1 <span className="uppercase text-black">click 1</span></h2>
               </motion.div>
           </div>
      );

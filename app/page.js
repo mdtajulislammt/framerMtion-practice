@@ -4,6 +4,7 @@ import Box11 from "@/components/common/Box11";
 import Box12 from "@/components/common/Box12";
 import Box13 from "@/components/common/Box13";
 import Box14 from "@/components/common/Box14";
+import Box15 from "@/components/common/Box15";
 import Box2 from "@/components/common/Box2";
 import Box3 from "@/components/common/Box3";
 import Box4 from "@/components/common/Box4";
@@ -31,6 +32,7 @@ export default function Home() {
       <Box12/>
       <Box13/>
       <Box14/>
+      <Box15/>
     </main>
   )
 }
